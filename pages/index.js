@@ -52,7 +52,7 @@ const App = () => {
         </main>
 
         <div className="footer-container">
-          <img alt="Twitter Logo" className="twitter-logo" src="twitter-logo.svg" />
+          <img alt="Twitter Logo" className="twitter-logo" src="twitter-logo.svg" href={TWITTER_LINK} />
           <a
             className="footer-text"
             href={TWITTER_LINK}
