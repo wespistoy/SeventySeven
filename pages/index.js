@@ -52,8 +52,10 @@ const App = () => {
         </main>
 
         <div className="footer-container">
-         <a href="https://twitter.com/degensevenseven" target="_blank" rel="noopener noreferrer" class="cursor-pointer me-2">
-            <img src="https://i.imgur.com/t1BKgIa.jpg" class="rounded mt-1" style="width: 32px; height: 20px;">
+         <a href="https://twitter.com/degensevenseven" target="_blank" rel="noopener noreferrer" 
+          class="cursor-pointer me-2">
+            <img src="https://i.imgur.com/t1BKgIa.jpg" class="rounded mt-1" style="width: 32px; 
+             height: 20px;">
          </a>
         </div>
       </div>
