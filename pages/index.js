@@ -52,13 +52,9 @@ const App = () => {
         </main>
 
         <div className="footer-container">
-          <img alt="Twitter Logo" className="twitter-logo" src="twitter-logo.svg" href={TWITTER_LINK} />
-          <a
-            className="footer-text"
-            href={TWITTER_LINK}
-            target="_blank"
-            rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          <a href="https://magiceden.io/marketplace/degen_coin_flip" target="_blank" rel="noopener noreferrer" class="cursor-pointer me-2">
+            <img src="https://i.imgur.com/KRuxULB.png" class="rounded mt-1" style="width: 32px; height: 20px;">
+           </a>
         </div>
       </div>
     </div>
