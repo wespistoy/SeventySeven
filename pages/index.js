@@ -57,7 +57,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`@${TWITTER_HANDLE}`}</a>
+          >{` @${TWITTER_HANDLE}`}</a>
            </a>
         </div>
       </div>
