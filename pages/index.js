@@ -52,13 +52,6 @@ const App = () => {
         </main>
 
         <div className="footer-container">
-          <a
-            className="footer-text"
-            href={TWITTER_LINK}
-            target="_blank"
-            rel="noreferrer"
-          >{`  @${TWITTER_HANDLE}`}</a>
-           </a>
         </div>
       </div>
     </div>
